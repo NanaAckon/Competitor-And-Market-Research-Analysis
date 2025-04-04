@@ -175,7 +175,27 @@ The global demand for African beauty products (e.g., black soap, shea butter, na
 
 ---
 
-## 🎯 Impact & Conclusion
-Afriglow platform empowers African beauty brands by providing direct access to international buyers, simplifying export processes, and enhancing visibility. By integrating data-driven insights and innovative digital solutions, the project addresses key pain points in the African beauty export market and fosters global market expansion.
+## 🎯 Impact And Conclusion
+
+**Impact**
+*Afriglow platform empowers African beauty brands by providing direct access to international buyers, simplifying export processes, and enhancing visibility. By integrating data-driven insights and innovative digital solutions, the project addresses key pain points in the African beauty export market and fosters global market expansion.*
+
+
+**Conclusion**
+The competitor analysis highlights the dynamic nature of the luxury skincare and beauty 
+market, where pricing, customer satisfaction, and platform positioning play crucial roles. 
+Premium platforms like **Amazon and Etsy** attract high-end consumers, while **eBay and 
+Wish** serve budget-conscious buyers. **Etsy leads in customer satisfaction, whereas Wish 
+and AliExpress struggle with trust and quality issues.**
+
+To stay competitive, brands should **leverage premium positioning, focus on product             
+quality, enhance customer trust, and explore sustainable and organic product lines.** 
+Implementing *bundled offerings, influencer collaborations, and direct-to-consumer 
+strategies* can further drive growth and customer loyalty in this evolving market.
+
+
+
+
+
 
 
