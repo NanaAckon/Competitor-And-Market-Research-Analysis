@@ -37,7 +37,7 @@ The global demand for African beauty products (e.g., black soap, shea butter, na
 - Azeezat Amolegbe
 - Ochei Funmilayo
 
-Responsibilities:
+*Responsibilities:*
 - Conduct market research on global consumer preferences and buying behaviors.
 - Analyze industry trends, focusing on demand for natural and organic beauty products.
 - Identify market gaps and propose innovative solutions.
@@ -49,7 +49,7 @@ Responsibilities:
 - Ihechimere Akhademe
 - Joseph Prince Nana-Ackon(Myself) 
 
-Responsibilities:
+*Responsibilities:*
 - Conducted competitor and market research to identify opportunities and challenges.
 - Analyzed global pricing models, customer preferences, and industry growth trends.
 - Scraped and structured data from competitor websites.
